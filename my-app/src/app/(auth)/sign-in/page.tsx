@@ -1,8 +1,10 @@
-import React from 'react'
+import SigninForm from '@/components/form/SigninForm';
 
 const page = () => {
   return (
-    <div>Sign in</div>
+    <div className='w-full'>
+        <SigninForm />
+    </div>
   )
 }
 

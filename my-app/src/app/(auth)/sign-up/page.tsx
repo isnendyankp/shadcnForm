@@ -1,8 +1,8 @@
-import React from 'react'
+
 
 const page = () => {
   return (
-    <div>Sign Up</div>
+    <div className='bg-blue-400 w-full'>Sign Up</div>
   )
 }
 
